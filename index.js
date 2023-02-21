@@ -13,7 +13,7 @@ function render(todos) {
 }
 
 const store = new Store(appReducer, initialState);
-console.log(render(initialState.todos)); // inital render
+console.log(render(initialState.todos)); // initial render
 
 // Re-render when state changes
 store.subscribe((state, action) => {
