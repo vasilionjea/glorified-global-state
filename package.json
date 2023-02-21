@@ -1,0 +1,20 @@
+{
+  "name": "glorified-global-state",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "More or less what Redux is",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasilionjea/glorified-global-state.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasilionjea/glorified-global-state/issues"
+  },
+  "homepage": "https://github.com/vasilionjea/glorified-global-state#readme"
+}
